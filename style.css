@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.dd1{
+    margin-left: 1450px;
+    position: fixed;
+    top: 10px;
+    z-index: 3;
+    
+}
+
+.mlist li a{
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+    
+
+}
+.mlist li{
+    list-style-type: none;
+}
+.blk li{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    
+}
+.blklist li{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
+.blklist li a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.dmo li{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
+.dmolist li{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
+.dmolist li a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+/* banner */
+.banner{
+    background-image: url('headset.avif');
+    height: 800px;
+    background-size: cover;
+}
+/* nav icon */
+.navicon{
+    padding: 5px;
+    margin: 2px;
+    font-size: larger;
+}
+.navi{
+    margin-left: 710px;
+
+}
+.buyli{
+    text-align: center;
+}
+.buyli button{
+    border-radius: 50px;
+    width: 100px;
+}
+.bannertitle{
+    z-index: 1;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+
+}
+.bannertitle p{
+    font-weight: bolder;
+}
+.bannertitle h1{
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+.bannertitle button{
+    font-weight: bolder;
+    font-size: small;
+    border-radius: 50px;
+}
+.findqlty{
+    margin-top: 100px;
+    text-align: inherit;
+}
+.findqlty h1{
+    font-weight: lighter;
+}
+.findqlty p{
+    margin-left: 20px;
+    text-align: justify;
+}
+/* hotest headphone */
+
+.col-3 img{
+    width: 300px;
+}
+.img1hover{
+    position: relative;
+    width: 300px;
+    height: auto;
+     top:-200px;
+    margin-bottom: -200px;
+    
+   
+    
+
+}
+.cardbtn1 button{
+    position: relative;
+    top: -400px;
+    left: 0px;
+    border-radius: 50px;
+}
+.cardbtn2 button{
+    position: relative;
+    top: -375px;
+    left: 0px;
+    border-radius: 50px;
+}
+.cardbtn3 button{
+    position: relative;
+    top: -415px;
+    left: 0px;
+    border-radius: 50px;
+}
+.hover{
+    position: relative;
+    top: 75px;
+    left: 46%;
+    margin-bottom: 135px;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0);
+    display: inline-block;
+    
+}
+.hoverh{
+    position: relative;
+    top: -10px;
+    left: 5px;
+    color: rgba(255, 255, 255, 0);
+    
+    
+    
+}
+.img1hover:hover{
+    background-color: rgba(0, 0, 0, 0.348);
+    .hoverh{
+        color: white;
+    }
+    .hover{
+        color: white;
+    }
+}
+
+.likeit p{
+    color: white;
+    font-weight: bolder;
+   
+}
+.likeit h1{
+    color: white;
+    font-weight: bolder;
+}
+.likeit button{
+    position: relative;
+    top: -50px;
+    left: 70%;
+    border-radius: 50px;
+}
+.likeit button a{
+    text-decoration: none;
+    color: black;
+}
+.cardcol h1{
+    font-weight: bolder;
+    color: coral;
+    font-size: 80px;
+}
+.cardcol h5{
+    position: relative;
+    top: -58px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.cardcol p{
+    text-align: justify;
+
+}
+.cardcol p a{
+    color: coral;
+    text-decoration: none;
+}
+.convinced iframe{
+    margin-top: 20px;
+    width: 100%;
+}
+.footer img{
+    position: relative;
+    top: 50px;
+}
+.footer a{
+    border-radius: 50%;
+    background-color: goldenrod;
+    padding: 5px;
+    position: relative;
+    left: 1050px;
+    top: -50px;
+    margin: 5px;
+    font-size: 20px;
+   
+    
+}
+/* nav sticky */
+.stick{
+    position: fixed;
+    top: 0px;
+    background-color: black;
+    z-index: 2;
+    width: 100%;
+}
+
+
+
+
+
+
